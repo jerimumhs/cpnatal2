@@ -31,4 +31,4 @@
 | 13:15 - 15:30 | Franklin Leocadio | Workshop de Desenvolvimento Web com JavaScript para Iniciantes  |
 | 15:35 - 16:10 | Matheus C. Oliveira  | OWASP'S DEVSECOPS MATURITY MODEL |
 | 16:15 - 17:00 | Fernando Guisso | Git: Boas práticas e outras nem tão boas com |
-|17:15 - 18:30 |  Allythy Renan   |Git para equipes e contribuição em projetos open source |
+|17:15 - 18:30 |  Allythy Renan   |Git para equipes e contribuição em projetos software livre |
