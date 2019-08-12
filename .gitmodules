@@ -4,6 +4,6 @@
 [submodule "rodrigondec/intro-heroku"]
 	path = rodrigondec/intro-heroku
 	url = https://github.com/rodrigondec/cpnatal2_intro-heroku
-[submodule "m4th3u5C0liv31r4"]
-	path = m4th3u5C0liv31r4
+[submodule "m4th3u5C0l1v31r4/seguranca-em-nuvem"]
+	path = m4th3u5C0l1v31r4/seguranca-em-nuvem
 	url = https://github.com/matholiveira91/seguranca-em-nuvem
