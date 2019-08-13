@@ -7,3 +7,6 @@
 [submodule "m4th3u5C0l1v31r4/seguranca-em-nuvem"]
 	path = m4th3u5C0l1v31r4/seguranca-em-nuvem
 	url = https://github.com/matholiveira91/seguranca-em-nuvem
+[submodule "igorasantos/git-basico"]
+	path = igorasantos/git-basico
+	url = https://github.com/igorasantos/cpnatal2_git-basico
